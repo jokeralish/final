@@ -37,9 +37,9 @@ meSettings = me.getSettings()
 meM = me.getProfile().mid
 Bt = [meM]
 all = [me]
-OWNER = ["u0ac948397fbc732bd3bc5ca273faa698"]
-oaBot = ["ub0842532a31b9d99856cf2590b17d33f","udfaf52176415b46cb445ae2757ec85f3","u17a086ccff618e754588a1108335867f","uc8dc5352066b6a344bde3c07b0fe04ea","ub9c30fd47257ec4337ee777657b4df66"]
-chim = "uc8dc5352066b6a344bde3c07b0fe04ea"
+OWNER = ["mid"]
+oaBot = ["mid","mid","mid","mid","mid"]
+chim = "mid"
 St = set["stile"]
 tz = pytz.timezone("Asia/Jakarta")
 timeNow = datetime.now(tz=tz)
@@ -149,7 +149,7 @@ def bot(op):
                       "imageUrl": url1,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -162,7 +162,7 @@ def bot(op):
                       "imageUrl": url2,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -175,7 +175,7 @@ def bot(op):
                       "imageUrl": url3,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -188,7 +188,7 @@ def bot(op):
                       "imageUrl": url4,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -201,7 +201,7 @@ def bot(op):
                       "imageUrl": url5,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -214,7 +214,7 @@ def bot(op):
                       "imageUrl": url6,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -227,7 +227,7 @@ def bot(op):
                       "imageUrl": url7,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -240,7 +240,7 @@ def bot(op):
                       "imageUrl": url8,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -253,7 +253,7 @@ def bot(op):
                       "imageUrl": url9,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -266,7 +266,7 @@ def bot(op):
                       "imageUrl": url10,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~infoalish",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -343,7 +343,7 @@ def bot(op):
                     "imageUrl": "https://os.line.naver.jp/os/p/{}".format(ids.mid),
                     "action": {
                       "type": "uri",
-                      "uri": "http://line.me/ti/p/~adiputra.95"
+                      "uri": "http://line.me/ti/p/~infoalish"
                       }
                     }
                   )
@@ -525,7 +525,7 @@ def bot(op):
                   "aspectMode": "cover",
                   "action": {
                     "type": "uri",
-                    "uri": "https://line.me/ti/p/~adiputra.95"
+                    "uri": "https://line.me/ti/p/~infoalish"
                   }
                 },
                 "body": {
@@ -534,7 +534,7 @@ def bot(op):
                   "spacing": "md",
                   "action": {
                     "type": "uri",
-                    "uri": "https://line.me/ti/p/~adiputra.95"
+                    "uri": "https://line.me/ti/p/~infoalish"
                   },
                   "contents": [
                     {
@@ -630,7 +630,7 @@ def bot(op):
                     },
                     {
                       "type": "text",
-                      "text": "________________________________________________\nmy whatsup : 085719122254",
+                      "text": "________________________________________________\n",
                       "wrap": True,
                       "color": "#aaaaaa",
                       "size": "xxs"
